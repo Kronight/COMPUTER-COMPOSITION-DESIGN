@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Dec 15 23:55:43 2020
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : CPUTop
+Top-level Entity Name : CPUTop
+Family : Cyclone 10 LP
+Total logic elements : 873
+    Total combinational functions : 837
+    Dedicated logic registers : 222
+Total registers : 222
+Total pins : 138
+Total virtual pins : 0
+Total memory bits : 3,584
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
